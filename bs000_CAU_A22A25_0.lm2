@@ -1,0 +1,51 @@
+# 2D Landmark File
+
+22 landmarks
+
+Labels:
+Outer left eyebrow
+Middle left eyebrow
+Inner left eyebrow
+Inner right eyebrow
+Middle right eyebrow
+Outer right eyebrow
+Outer left eye corner
+Inner left eye corner
+Inner right eye corner
+Outer right eye corner
+Nose saddle left
+Nose saddle right
+Left nose peak
+Nose tip
+Right nose peak
+Left mouth corner
+Upper lip outer middle
+Right mouth corner
+Upper lip inner middle
+Lower lip inner middle
+Lower lip outer middle
+Chin middle
+
+2D Image coordinates:
+78.0899 339.781
+228.953 235.853
+420.047 306.255
+681.543 312.96
+875.989 222.442
+1046.97 333.076
+182.018 426.946
+433.457 430.299
+684.896 430.299
+929.629 406.831
+507.212 477.234
+614.493 473.881
+430.104 701.853
+574.263 641.507
+708.363 718.615
+413.342 996.874
+567.558 903.004
+725.126 996.874
+570.91 946.586
+567.558 1037.1
+567.558 1104.15
+567.558 1332.13
